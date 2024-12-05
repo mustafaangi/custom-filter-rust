@@ -6,5 +6,5 @@ A simple Rust library that implements custom filtering functionality for collect
 
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/custom-collection-filter](https://github.com/mustafaangi/custom-filter-rust.git
+git clone https://github.com/mustafaangi/custom-filter-rust.git
 cd custom-collection-filter
